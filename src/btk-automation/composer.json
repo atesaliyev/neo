@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=7.4",
+        "anti-captcha/anti-captcha": "^1.0"
+    }
+}
